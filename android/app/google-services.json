@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761475556479",
+    "project_id": "spendmoney-c2330",
+    "storage_bucket": "spendmoney-c2330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761475556479:android:67d555c3cd5614074c4b4a",
+        "android_client_info": {
+          "package_name": "com.example.spendwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSU0VgyWU5U4aMRk6s0vuYe9ubbJ67MnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
